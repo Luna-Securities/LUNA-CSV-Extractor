@@ -25,8 +25,8 @@ A simple graphical user interface (GUI) application built using Python and Tkint
    pip install -r requirements.txt
 
 3. **Run the application:**
-- On Windows: Double-click the `Qoutes_Compiler.py` file.
-- On Unix-based systems (Linux, macOS): Right-click the `Qoutes_Compiler.py` file, select "Open With" > "Python" or "Python Launcher".
+- On Windows: Double-click the `csv_extractor&compiler_1.0.py` file.
+- On Unix-based systems (Linux, macOS): Right-click the `csv_extractor&compiler_1.0.py` file, select "Open With" > "Python" or "Python Launcher".
 
 4. **Usage:**
 - Click the "Upload Excel/CSV" button to select one or more Excel or CSV files containing data.
