@@ -1,7 +1,7 @@
-# Luna Securities CSV Extractor
+# Luna Sec CSV Extractor
 
 ## Overview
-The Luna Securities CSV Extractor is a simple graphical user interface (GUI) application built using Python and Tkinter. It allows users to upload one or more Excel or CSV files containing financial data, process the data, view the results, and save the final output to a CSV file.
+The CSV Extractor is a simple graphical user interface (GUI) application built using Python and Tkinter. It allows users to upload one or more Excel or CSV files containing financial data, process the data, view the results, and save the final output to a CSV file.
 
 ## Features
 - Upload Excel or CSV files.
@@ -18,7 +18,7 @@ The Luna Securities CSV Extractor is a simple graphical user interface (GUI) app
    git clone https://github.com/yourusername/luna-securities-csv-extractor.git
 2. **Navigate to the project directory:**
    ```bash
-   cd luna-securities-csv-extractor
+   cd luna-sec-csv-extractor
 
 3. **Install the required dependencies:**
    ```bash
